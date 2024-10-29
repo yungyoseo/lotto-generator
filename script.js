@@ -59,3 +59,4 @@ function getColor(num) {
 }
 
 createNumberCircles();
+generateLotto();
