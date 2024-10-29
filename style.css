@@ -1,0 +1,13 @@
+.numberCircle {
+	background-color: #4CAF50; /* 원하는 배경색 */
+	color: white; /* 텍스트 색상 */
+	width: 50px; /* 원형의 너비 */
+	height: 50px; /* 원형의 높이 */
+	border-radius: 50%; /* 원형으로 만들기 */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	margin: 5px; /* 원들 간 간격 */
+	align-content: center;
+}
